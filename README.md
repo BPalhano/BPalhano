@@ -24,7 +24,8 @@
   <img align="center" alt="ibp-fapi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="ibp-latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="ibp-pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-                                             
+  <img align="center" alt="ibp-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+                                          
        
 </div>
  
