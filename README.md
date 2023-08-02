@@ -1,15 +1,19 @@
+
+
 ## Hello there! i'm Igor Braga Palhano 😁
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://github.com/BPalhano">
     <img src="https://github-readme-stats.vercel.app/api?username=BPalhano&show_icons=true&line_height=20&theme=dark&count_private=true" alt="BPalhano" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BPalhano&hide_progress=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" alt="BPalhano" />
-</div>
+</div> -->
 
 <!-- &layout=compact&langs_count=5&theme=dark" -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,cpp,c,py,django,emacs,latex,linux,md,matlab"/>
 </p> 
 
+## Some social networks:
 <div align="center">  
 <a href = "mailto:igor.palhano@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igor-palhano-81102622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
