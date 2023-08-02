@@ -15,7 +15,9 @@
 
 <!-- &layout=compact&langs_count=5&theme=dark" -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,cpp,c,py,django,emacs,latex,linux,md,matlab"/>
+  <a href="https://github.com/BPalhano">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,py,django,emacs,latex,linux,md,matlab"/>
+  </a>
 </p> 
 
 <div align="center">
