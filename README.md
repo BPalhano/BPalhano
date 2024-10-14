@@ -1,9 +1,9 @@
 
-
+<!--
 <div align="center">
   <img src="https://github.com/BPalhano/BPalhano/blob/338b7d91030f7f71bcc8510a3b366591a640b66a/images/wallpaper.jpeg"/>
 </div>
-
+-->
 <div align="center">
   <h1>Hello, this is my stacks.</h1>
 </div>
