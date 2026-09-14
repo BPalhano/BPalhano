@@ -5,7 +5,7 @@
 </div>
 -->
 <div align="center">
-  <h1>Hello, this is my stacks.</h1>
+  <h1>Hello, these are my stacks.</h1>
 </div>
 <!-- <div align="center">
   <a href="https://github.com/BPalhano">
