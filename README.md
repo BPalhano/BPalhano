@@ -99,7 +99,7 @@
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Activity
 
 <div align="center">
@@ -108,7 +108,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
   <sub>Open for challenging opportunities in Edge AI, Embedded Systems, and Telecommunications Engineering.</sub>
 </div>
