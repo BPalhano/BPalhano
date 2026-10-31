@@ -86,7 +86,7 @@
 | :--- | :--- |
 | **Languages** | `C` • `C++` • `Python` • `Bash` • `MATLAB` • `Julia` • `SQL` |
 | **Edge AI & Vision** | NVIDIA TensorRT (INT8 PTQ) • ONNX Runtime • PyTorch • OpenCV • Vision Transformers • MLflow |
-| **Telecom & Wireless** | 3GPP Channel Modeling (UMa) • RF Positioning (ToA/AoA) • 802.11 Wi-Fi • BLE • TShark / Wireshark • DSP |
+| **Telecom & Wireless** | 3GPP Channel Modeling • RF Positioning/Planning • 802.11 Wi-Fi • BLE • TShark / Wireshark • DSP |
 | **Embedded & Systems** | ESP-IDF • FreeRTOS • I2S / DMA • Linux (Debian/Arch) • POSIX • CMake • Docker |
 | **Tooling & Quality** | Git • GitHub Actions (CI/CD) • Pytest • Evidently AI (Drift) • Neovim / Emacs • LaTeX |
 
